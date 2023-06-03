@@ -1,5 +1,7 @@
 # Diversity-Inclusion
 
+▶ Projrct Link : https://app.powerbi.com/view?r=eyJrIjoiZjViMGRhMWMtYjk5Yy00YTFhLWI4ZmMtNGI2MDg2MTI3NTA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionddf5a4a041c1b1b1dd24
+
 My objective was to analyse the trends of Hires, Resigns, Promotions & Performance in the company.
 My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
 
